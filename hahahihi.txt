@@ -10,8 +10,8 @@ using namespace std;
 #define         ff          first
 #define         ss          second
 #define         mk          make_pair
-#define         inf			2147483647
-#define			Inf	        9223372036854775807
+#define         inf         2147483647
+#define         Inf         9223372036854775807
 #define         IO          ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 
 int dx[] = { +1, -1, 0, 0, +1, +1, -1, -1 };
